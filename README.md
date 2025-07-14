@@ -31,4 +31,5 @@ using infinite scroll (simulating human scrolling) reveals only ~36,000 articles
 2.Avoiding invalid ticker trap
 Even if a ticker doesn’t exist, the website still loads the same archive page (not filtered by ticker). If not handled properly, this leads you back into the general archive view, breaking the ticker-specific pipeline.
 
-
+# How to get the data?
+Email me to get google drive link. qiqi1996amelia@gmail.com
